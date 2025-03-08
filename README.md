@@ -2,7 +2,8 @@
 
 This is my personal project working with Power BI.
 
-![image](https://github.com/user-attachments/assets/4c98e762-1881-4544-866f-17f8cedfc1a1)
+![image](https://github.com/user-attachments/assets/4907fe1f-54cc-4960-bc6e-437d44a00920)
+
 
 
 ## Features
